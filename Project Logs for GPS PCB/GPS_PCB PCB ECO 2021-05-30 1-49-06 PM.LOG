@@ -1,0 +1,18 @@
+Added Component: Designator=P1(3M-N2520-6002RB_V)
+Add component (AddParameter): Name = "Category"; Value = "ConnectorHeadersandPCBReceptacles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "GoldOverNickel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/11750/0900766b807b18da-11750722.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "05/2007"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "HDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "3MInterconnectSolutions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.3m.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "Male Header, Pitch 2.54 mm, 2 x 10 Position, Height 9.91 mm, Tail Length 2.84 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "N2520-6002RB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Method"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ShroudedHeader"; VariantName = "[No Variations]"
+Added Class: Name=20 Pin Header
+Added Room: Name=20 Pin Header

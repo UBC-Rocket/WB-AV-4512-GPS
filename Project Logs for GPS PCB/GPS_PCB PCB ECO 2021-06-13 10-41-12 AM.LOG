@@ -1,0 +1,68 @@
+Removed Pin From Net: NetName=3.3V_GPS Pin=J1-1
+Removed Pin From Net: NetName=GND Pin=J1-2
+Removed Pin From Net: NetName=GPSRX Pin=J1-3
+Removed Pin From Net: NetName=GPSTX Pin=J1-4
+Removed Pin From Net: NetName=GPSRESETN Pin=J1-5
+Removed Pin From Net: NetName=GPSPV Pin=J1-6
+Removed Member From Class: ClassName=20 Pin Header Member=J1
+Added Component: Designator=P?(TECO-5747840-4_V)
+Add component (AddParameter): Name = "3D Model"; Value = "5747840-4.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Catalog Drawings"; Value = "AMPD-SubMale.318"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Connectors,Interconnects"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Style"; Value = "D-Sub"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Plug,MalePins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish Thickness"; Value = "Flash"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Type"; Value = "Signal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "6A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F5747840%7FD%7Fpdf%7FEnglish%7FENG_CD_5747840_D.pdf%7F5747840-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. D, 01/2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dynamic Catalog"; Value = "AMPLIMITEHD-20Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "D-SubConnectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Featured Product"; Value = "AMPLIMITED-SubminiatureConnectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "BoardLock,GroundStrap,GroundingIndents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flange Feature"; Value = "Housing/Shell(4-40)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.te.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Products"; Value = "5-747905-7-ND
+-CONND-SUBRCPT9POSVERTSLD
+5-787355-1-ND
+-CONNRCPT9POSVERTSOLDERCUP
+5746861-4-ND
+-CONNRECEPT9POSGOLDIDC
+A32510-ND
+-CONND-SUBRCPT9POSSLDCUPAU
+AFL09B-ND
+-CONND-SUBRECEPT9POS30GOLD
+A31975-ND
+-CONND-SUBRECEPT9P22-26AWGAU
+A31974-ND
+-CONND-SUBRECEPT9P20-22AWGAU
+A31973-ND
+-CONND-SUBRECEPT9P26-30AWGAU
+A31931-ND
+-CONND-SUBRCPT9POS22-26AWGAU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "ThroughHole,RightAngle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C~105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "A32092"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "9-Pin Through Hole Device, Body 30.81 x 18.62 mm, Pitch 1.37 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "5747840-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Training Modules"; Value = "AMPLIMITED-SubConnectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Information"; Value = "5747840-4StatementofCompliance"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "AMPLIMITEHD-20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shell Material, Finish"; Value = "Steel,TinPlated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shell Size, Connector Layout"; Value = "1(DE,E)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "130"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "125V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V_GPS Pin=P?-1
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=GPSRX Pin=P?-3
+Added Pin To Net: NetName=GPSTX Pin=P?-4
+Added Pin To Net: NetName=GPSRESETN Pin=P?-5
+Added Pin To Net: NetName=GPSPV Pin=P?-6
+Added Member To Class: ClassName=20 Pin Header Member=Component P? 5747840-4
